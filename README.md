@@ -8,11 +8,11 @@
 
 [Programa Python Reglas de Asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Reglas_de_Asociacion.ipynb)
 
-[Ejercicio I]()
+[Ejercicio I NO ESTA HECHO]()
 
-[Ejercicio II]()
+[Ejercicio II NO ESTA HECHO ]()
 
-[Mapa Mental I]()
+[Mapa Mental I NO ESTA HECHO ]()
 
-[Resumenes]()
+[Resumenes NO ESTA HECHO]()
 
