@@ -7,3 +7,12 @@
 [Base de Datos Utilizada para el programa Python RA](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
 
 [Programa Python Reglas de Asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Reglas_de_Asociacion.ipynb)
+
+[Ejercicio I]()
+
+[Ejercicio II]()
+
+[Mapa Mental I]()
+
+[Resumenes]()
+
