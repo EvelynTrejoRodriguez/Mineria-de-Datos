@@ -11,6 +11,7 @@
 [Ejercicio I](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
 
 [Programa Python Ejercicio I / REGRESION](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Regresi%C3%B3n.ipynb)
+
 [Programa Python Ejercicio I / REGLAS DE ASOCIACION](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
 [Mapa Mental Tecnicas NO ESTA HECHO ]()
