@@ -14,7 +14,7 @@
 
 [Programa Python Ejercicio I / REGLAS DE ASOCIACION](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
-[Mapa Mental Tecnicas NO ESTA HECHO ]()
+[Mapa Mental II Tecnicas de Mineria de Datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/MapaMental_II_%5B1811917%5D.pdf)
 
 [Resumenes NO ESTA HECHO]()
 
