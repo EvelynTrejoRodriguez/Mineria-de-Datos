@@ -16,7 +16,7 @@
 
 [Mapa Mental II Tecnicas de Mineria de Datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/MapaMental_II_%5B1811917%5D.pdf)
 
-[Resumenes NO ESTA HECHO]()
+[Resumenes Tecnicas de Mineria de Datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Resumen_Tecnicas.pdf)
 
 [Ejercicio II NO ESTA HECHO ]()
 
