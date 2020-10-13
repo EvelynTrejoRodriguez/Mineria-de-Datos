@@ -2,7 +2,7 @@
 ## FASE I
 [Mapa Mental 1](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Mapa_Mental_1_%5B1811917%5D.pdf)
 
-##____________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 
 [Presentacion Reglas de Asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Presentaci%C3%B3n_Reglas%20de%20asociaci%C3%B3n_002.pdf)
 
