@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 [Ejercicio Práctico Bases de Datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/AnalisisBD_1811917.pdf)
 
-[Ejercicios de Python Basico]([Ejercicio Práctico Bases de Datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/AnalisisBD_1811917.pdf))
+[Ejercicios de Python Basico]()
 
 ______________________________________________________________________________________________________________________________________
 
