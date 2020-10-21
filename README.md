@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 [Ejercicio Práctico Bases de Datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/AnalisisBD_1811917.pdf)
 
-[Ejercicios de Python Basico](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PythonBasico_1811917.ipynb)
+[Ejercicios de Python Basico_1811917](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PythonBasico_1811917.ipynb)
 
 ______________________________________________________________________________________________________________________________________
 
