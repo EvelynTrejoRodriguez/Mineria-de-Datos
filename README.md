@@ -37,4 +37,4 @@ ________________________________________________________________________________
 
 [Avance I PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Avance1-PIA_Equipo10_002.pdf)
 
-[Ejercicio Limpieza de Datos PIA]()
+[Ejercicio Limpieza de Datos PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Ejercicio%20Limpieza%20de%20Datos_1811917.ipynb)
