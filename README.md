@@ -39,4 +39,4 @@ ________________________________________________________________________________
 
 [Ejercicio Limpieza De Datos PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Ejercicio%20Limpieza%20de%20Datos_1811917.ipynb)
 
-[Ejercicio Visualizacion de Datos PIA]()
+[Ejercicio Visualizacion de Datos PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Visualizaci%C3%B3n%20de%20los%20Datos.ipynb)
